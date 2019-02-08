@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class TestarBatalhaNaval {
+public class MainBatalhaNaval {
 	
 	private static boolean isNumber(String text) {
 		for (int i = 0; i < text.length(); i++) {
