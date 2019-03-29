@@ -15,7 +15,7 @@ import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
 /**
- * @author joaop
+ * @author eder17
  *
  */
 public class BatalhaNaval extends JFrame implements ActionListener {
