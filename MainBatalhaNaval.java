@@ -1,5 +1,10 @@
 import javax.swing.JOptionPane;
 
+/**
+ * @author eder17
+ *
+ */
+
 public class MainBatalhaNaval {
 	
 	private static boolean isNumber(String text) {
